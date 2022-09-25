@@ -1,4 +1,11 @@
 this is the second file in fetch local
 this is the line added in master 
+<<<<<<< HEAD
 vgsdvv
 vfdsjv
+=======
+remote repo fetch changes
+remoterepo changes again for fetch
+remote repo changes for fetch 
+fetch confirm
+>>>>>>> remoterepo/firstbranch
